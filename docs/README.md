@@ -33,8 +33,9 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 
 # Install dependencies
 pip install -r requirements.txt
-
-###2. Generate Placeholder Model
+```
+### 2. Generate Placeholder Model
+```bash
 # Navigate to model_training directory
 cd ../model_training
 
@@ -45,8 +46,10 @@ python create_placeholder_model.py
 cp best_model.h5 ../backend/
 cp class_names.txt ../backend/
 
-###3. Setup Frontend
+```
+### 3. Setup Frontend
 
+```bash
 # Navigate to frontend directory
 cd ../frontend
 
@@ -70,3 +73,4 @@ cd frontend
 npm start
 
 The application will open in your browser at http://localhost:3000
+```
