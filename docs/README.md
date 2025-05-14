@@ -6,13 +6,6 @@ A proof-of-concept AI-enabled system for plant disease detection using computer 
 
 This system identifies plant diseases from leaf images, providing treatment recommendations and visual explanations. It consists of a Flask backend API, React frontend interface, and a machine learning model implemented with TensorFlow.
 
-## Project Structure
-plant-disease-detection/
-├── backend/              # Flask API server
-├── frontend/             # React application
-├── model_training/       # ML model implementation
-└── docs/                 # Documentation
-
 ## Prerequisites
 
 - Python 3.8+
