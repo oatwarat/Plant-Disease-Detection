@@ -1,0 +1,7 @@
+Healthy
+Bacterial_spot
+Early_blight
+Late_blight
+Leaf_rust
+Powdery_mildew
+Leaf_spot

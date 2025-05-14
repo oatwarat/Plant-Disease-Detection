@@ -1,0 +1,13 @@
+tensorflow>=2.4.0
+numpy>=1.19.2
+pandas>=1.1.3
+matplotlib>=3.3.2
+seaborn>=0.11.0
+scikit-learn>=0.23.2
+opencv-python>=4.4.0
+pillow>=8.0.0
+shap>=0.39.0
+lime>=0.2.0
+mlflow>=1.21.0
+scikit-image>=0.18.1
+aif360>=0.4.0  # For fairness metrics (optional)

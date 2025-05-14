@@ -1,0 +1,22 @@
+.App {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  .upload-container {
+    margin-top: 2rem;
+  }
+  
+  .upload-paper {
+    padding: 2rem;
+  }
+  
+  .dropzone {
+    transition: all 0.3s ease;
+  }
+  
+  .dropzone:hover {
+    background-color: #f0f0f0;
+    border-color: #2e7d32;
+  }
